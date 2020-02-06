@@ -1,0 +1,24 @@
+---
+title: 'Milestone #1'
+author: "Niel Schrage"
+date: "2/6/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Replication Milestone #1
+
+>Milestone #1. Meet with your assigned TF, either this week or next week. Ensure that your computer is set up correctly. Discuss ideas for replication paper. Submit an html with a few sentences about the paper you are currently considering. Read some background on organizing a project.
+
+I met with Alice earlier this week to discuss my final replication project. Since I'm concentrating in Government and most likely will end up writing a thesis, Alice suggested that I look for papers written by current Harvard professors. She also encouraged me to find a paper written in the last 5-8 years, as it would be more likely that newer papers would have more information that could be useful in the replication process. 
+
+After doing some research in the time provided during class -- and with a helpful suggestion from Preceptor about not doing a specific paper on China with inaccessible/overly complicated data -- I ended up finding the following paper that I'm planning on replicating. The paper, by [Gary King](https://gking.harvard.edu/) and others, is an investigation of the accuracy of [Google's Flu Trends](https://www.google.org/flutrends/about/) information. While researching the paper, [The Parable of Google Flu: Traps in Big Data Analysis](https://gking.harvard.edu/files/gking/files/ssrn-id2408560_2.pdf), I realized that Google Flu Trends [stopped publishing](https://ai.googleblog.com/2015/08/the-next-chapter-for-flu-trends.html) results about a year after this article first came out. I'm unsure if this makes it a worse paper to try to replicate, but will follow up with Alice/Preceptor next week. 
+
+The replication data from this paper is publically available using the [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/24823).
+
+
+
+
